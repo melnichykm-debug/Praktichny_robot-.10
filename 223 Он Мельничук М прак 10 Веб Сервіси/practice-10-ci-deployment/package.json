@@ -1,0 +1,20 @@
+{
+  "name": "practice-10-ci-deployment",
+  "version": "1.0.0",
+  "description": "Practice 10 - CI + Deployment in pure Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "NODE_ENV=development node server.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "nodejs",
+    "ci",
+    "deployment",
+    "github-actions",
+    "pure-node"
+  ],
+  "author": "Мельничук Михайло, група 223 он",
+  "license": "MIT"
+}
